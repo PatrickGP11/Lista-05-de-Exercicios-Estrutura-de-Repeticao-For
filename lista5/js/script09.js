@@ -1,0 +1,5 @@
+let N = parseInt(prompt("Digite N:"));
+
+for (let i = 1; i <= N; i++) {
+    console.log(i);
+}
